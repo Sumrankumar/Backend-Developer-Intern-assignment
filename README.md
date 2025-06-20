@@ -37,9 +37,9 @@ Example:
 ```
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=@#Hellosk5491@#
+DB_PASSWORD=your_mysql_passwor
 DB_NAME=your_db_name
-JWT_SECRET=@#Hellosk5491@#
+JWT_SECRET=your_jwt_secret_key
 PORT=5000
 ```
 
