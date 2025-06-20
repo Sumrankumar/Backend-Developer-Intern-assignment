@@ -156,7 +156,7 @@ npm run dev
 ---
 
 ### ✅ **Submission**
-- ✅ **GitHub Repo:** [Your Repository Link Here]
+- ✅ **GitHub Repo:** https://github.com/Sumrankumar/Backend-Developer-Intern-assignment
 - ✅ **This README.md**
 - ✅ **PDF Explanation:** Use this same content or summarize it.
 
@@ -164,5 +164,3 @@ npm run dev
 
 ### 🎉 **Done!**
 
-Your backend is ready, Docker-ready, and well-documented.  
-Good luck! 🚀✨
